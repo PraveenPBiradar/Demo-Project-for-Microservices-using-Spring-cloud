@@ -1,2 +1,2 @@
-# Demo on SpringCloud
-Order-Payment microservice using spring cloud,hystrix,eureka service discovery
+# Demo-Project-for-Spring-cloud
+Order-Payment miscroservice example project which includes spring cloud, api gateway along with eureka service discovery and hystrix
